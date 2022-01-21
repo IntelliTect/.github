@@ -11,12 +11,8 @@ We are puzzlers who love solving problems. We find great satisfaction in designi
 
 <br>
 <br>
-
-
-<a href="https://intellitect.com/home/about-intellitect/">
-<p align="center">
-<img width="50%" src="https://intellitect.com/wp-content/uploads/2019/07/mission.jpg">
-</p>
+<a href="https://intellitect.com/home/about-intellitect/" align="center" style="font-size: 100px;">
+Our Mission: To Be Phenomenal People Achieving Excellence Through Innovative Solutions
 </a>
 
 
