@@ -1,4 +1,6 @@
-<img align="right" width="30%" src="https://intellitect.com/wp-content/uploads/2020/04/IntelliTect_WhiteBlue-Box.svg">
+<a href="https://intellitect.com/">
+	<img align="right" width="30%" src="https://intellitect.com/wp-content/uploads/2020/04/IntelliTect_WhiteBlue-Box.svg">
+      </a>
 
 # Hi there 👋
 <br>
@@ -10,12 +12,15 @@ We are puzzlers who love solving problems and find great satisfaction in designi
 <br>
 <br>
 
-<p align="center">
+
+<a href="intellitect.com/home/about-intellitect/">
 <img width="50%" src="https://intellitect.com/wp-content/uploads/2019/07/mission.jpg">
-</p>
+</a>
+
 
 ### 👓 Appendix
 
+Learn more about us, and what we do at our [website](https://intellitect.com/) ✨
 Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://intellitect.com/join-our-team/) 🙌.
 
 <details>
