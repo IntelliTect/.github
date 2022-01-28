@@ -12,12 +12,11 @@ Our Mission: To Be Phenomenal People Achieving Excellence Through Innovative Sol
 </a>
 
 ## 🌎 Contributing to open source
-We 💗 love to contribute to open source project while maintaining 🧹 some of our own open source projects like:
+We 💗 love to contribute to open source projects while maintaining 🧹 some of our own like:
 
-- [Coalesce](https://github.com/IntelliTect/Coalesce)
-- [PSToolbox](https://github.com/IntelliTect/PSToolbox)
-- [TestTools](https://github.com/IntelliTect/TestTools)
-
+- [Coalesce](https://github.com/IntelliTect/Coalesce) - Helping you quickly build amazing sites
+- [TestTools](https://github.com/IntelliTect/TestTools) - A collection of tools for aiding in test automation
+- [PSToolbox](https://github.com/IntelliTect/PSToolbox) - Powershell scripts and modules hosted at https://www.powershellgallery.com/
 
 ## 👓 Appendix
 Learn more about us, and what we do at our [website](https://intellitect.com/) ✨
