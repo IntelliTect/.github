@@ -5,22 +5,23 @@
 # Hi there 👋
 <br>
 
-<samp>
 We are puzzlers who love solving problems. We find great satisfaction in designing, building, and implementing great architectural and engineering solutions. Our expectations are high, and we have fun achieving them.
-</samp>
 
-<br>
-<br>
 <a href="https://intellitect.com/home/about-intellitect/" align="center" style="font-size: 100px;">
 Our Mission: To Be Phenomenal People Achieving Excellence Through Innovative Solutions
 </a>
 
+## 🌎 Contributing to open source
+We 💗 love to contribute to open source project while maintaining 🧹 some of our own open source projects like:
 
-### 👓 Appendix
+- [Coalesce](https://github.com/IntelliTect/Coalesce)
+- [PSToolbox](https://github.com/IntelliTect/PSToolbox)
+- [TestTools](https://github.com/IntelliTect/TestTools)
 
+
+## 👓 Appendix
 Learn more about us, and what we do at our [website](https://intellitect.com/) ✨
 Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://intellitect.com/join-our-team/) 🙌.
-
 <details>
     <summary>"Tell me more, I can't get enough!"</summary>
     <br>
