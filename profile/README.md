@@ -18,9 +18,9 @@ We 💗 love to contribute to open source projects while maintaining 🧹 some o
 
 - [Coalesce](https://github.com/IntelliTect/Coalesce) - Helping you quickly build amazing sites
 - [TestTools](https://github.com/IntelliTect/TestTools) - A collection of tools for aiding in test automation
-- [PSToolbox](https://github.com/IntelliTect/PSToolbox) - Powershell scripts and modules hosted at https://www.powershellgallery.com/
+- [PSToolbox](https://github.com/IntelliTect/PSToolbox) - PowerShell scripts and modules hosted at [PowerShell Gallery](https://www.powershellgallery.com/packages?q=Intellitect)
 
-## Making a difference
+## 🤝 Making a difference
 We are passionate about giving back to our community and helping worldwide with our [philanthropic efforts](https://intellitect.com/about/philanthropy/).
 
 IntelliTect donates a significant portion of their profits to those in need through our philanthropic endeavors both locally and worldwide.
@@ -34,7 +34,7 @@ Oh, and by the way, we are always hiring talented, passionate people to [join ou
     <summary>"Tell me more, I can't get enough!"</summary>
     <br>
     <ul>
-	<li>🚂Developers at Intellitect love making the most of their time and have many hobbies including:</li>
+	<li>🚂Developers at IntelliTect love making the most of their time and have many hobbies including:</li>
 	    	<ul>
 			<li>🚴 Mountain Biking</li>
 			<li>⛷️ Skiing</li>
@@ -44,7 +44,7 @@ Oh, and by the way, we are always hiring talented, passionate people to [join ou
 			<li>...And much more!</li>
 	    	</ul>
 	    <br>
-	    <li>Intellitect is using the latest technologies including:</li>
+	    <li>IntelliTect is using the latest technologies including:</li>
 		<ul>
 			<li>Cloud Computing (both AWS and Azure)</li>
 			<li>Big Data, Machine Learning, and Artificial Intelligence (AI)</li>
@@ -54,11 +54,11 @@ Oh, and by the way, we are always hiring talented, passionate people to [join ou
 			<li>Enterprise Application Integration</li>
 	    	</ul>
 	    <br>
-	    <li>Intellitect works with clients in many industries including:</li>
+	    <li>IntelliTect works with clients in many industries including:</li>
 		<ul>
 			<li>Utilities</li>
 			<li>Manufacturing</li>
-			<li>Healthcaree</li>
+			<li>Healthcare</li>
 			<li>Insurance</li>
 			<li>And others!</li>
 	      </ul>
