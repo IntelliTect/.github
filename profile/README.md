@@ -4,7 +4,6 @@
 
 # Hi there <img alt="Hi there👋" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px">
 <br>
-
 When a job is fulfilling, it doesn’t feel like work. Our work is a natural pouring out of who we are. We are puzzlers who love solving problems and find great satisfaction in designing, building, and implementing great architectural and engineering solutions for our clients. Our expectations are high, and we have fun achieving them.
 
 <div align="left" font-size:"100px" style="color: black; font-size: 46px; text-decoration: none;">
@@ -42,7 +41,7 @@ Oh, and by the way, we are always hiring talented, passionate people to [join ou
 			<li>👨‍🏫 Teaching</li>
 			<li>✈️ Traveling</li>
 			<li>🎮 Video Games</li>
-			<li>...And much more!</li>
+			<li>...And others!</li>
 	    	</ul>
 	    <br>
 	    <li>IntelliTect is using the latest technologies including:</li>
@@ -61,7 +60,17 @@ Oh, and by the way, we are always hiring talented, passionate people to [join ou
 			<li>Manufacturing</li>
 			<li>Healthcare</li>
 			<li>Insurance</li>
-			<li>And others!</li>
+			<li>And more!</li>
 	      </ul>
+	   <br>
+	   <li>Our team includes the best and brightest software engineers who have many achievements including:</li>
+	    <ul>
+		    	<li>Microsoft Regional Director</li>
+			<li>Microsoft MVPs</li>
+			<li>Scrum Masters</li>
+			<li>AWS Certified Developers</li>
+		    	<li>Certified HubSpot Developers</li>
+			<li>And the list goes on!</li>
+	     </ul>
    </ul>
 </details>
