@@ -7,27 +7,28 @@
 
 When a job is fulfilling, it doesn’t feel like work. Our work is a natural pouring out of who we are. We are puzzlers who love solving problems and find great satisfaction in designing, building, and implementing great architectural and engineering solutions for our clients. Our expectations are high, and we have fun achieving them.
 
-<div align="center" font-size:"100px" style="color: black; font-size: 46px; text-decoration: none;">
+<div align="left" font-size:"100px" style="color: black; font-size: 46px; text-decoration: none;">
 <a href="https://intellitect.com/home/about-intellitect/" font-size:"100px" style="color: black; font-size: 46px; text-decoration: none;">
 Our Mission: To Be Phenomenal People Achieving Excellence Through Innovative Solutions
 </a>
 </div>
 
-## 🌎 Contributing to open source
-We 💗 love to contribute to open source projects while maintaining 🧹 some of our own like:
+## 🌎 Contributing to Open Source
+We love 💗 to contribute to open source projects while maintaining 🧹 some of our own:
 
 - [Coalesce](https://github.com/IntelliTect/Coalesce) - Helping you quickly build amazing sites
 - [TestTools](https://github.com/IntelliTect/TestTools) - A collection of tools for aiding in test automation
 - [PSToolbox](https://github.com/IntelliTect/PSToolbox) - PowerShell scripts and modules hosted at [PowerShell Gallery](https://www.powershellgallery.com/packages?q=Intellitect)
 
-## 🤝 Making a difference
-We are passionate about giving back to our community and helping worldwide with our [philanthropic efforts](https://intellitect.com/about/philanthropy/).
+## 🤝 Making a Difference
+We are passionate about giving back to our community and helping elimate injustice worldwide with our [philanthropic efforts](https://intellitect.com/about/philanthropy/).
 
-IntelliTect donates a significant portion of their profits to those in need through our philanthropic endeavors both locally and worldwide.
-Many of those stories can be viewed here: [Philanthropy Stories](https://intellitect.com/about/philanthropy/stories/)
+Intellitect donate a significant portion of our profits to those in need through philanthropic endeavors both locally and worldwide.
+Many of those stories can be viewed here: [Philanthropy Stories](https://intellitect.com/about/philanthropy/stories/).
 
 ## 👓 Appendix
-Learn more about us, and what we do at our [website](https://intellitect.com/) ✨
+Learn more about us and what we do at our [website](https://intellitect.com/) ✨.
+
 Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://intellitect.com/join-our-team/) 🙌.
 <br>
 <details>
