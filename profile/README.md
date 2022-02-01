@@ -1,8 +1,12 @@
 <a href="https://intellitect.com/">
-	<img align="right" width="30%" src="https://intellitect.com/wp-content/uploads/2020/04/IntelliTect_WhiteBlue-Box.svg">
-      </a>
+<img align="right" width="25%" src="https://intellitect.com/wp-content/uploads/2020/04/IntelliTect_WhiteBlue-Box.svg">
+</a>
 
-# Hi There <img alt="Hi there👋" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px">
+# Hi There <img alt="Hi there👋" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/gifs/wave.gif" width="30px">
+<a href="https://intellitect.com">
+<img alt="IntellitectBackgroundGraphic" src="https://raw.githubusercontent.com/IntelliTect/.github/main/profile/images/IntellitectBackgroundGraphic.png">
+</a>
+<br>
 <br>
 When a job is fulfilling, it doesn’t feel like work. Our work is a natural pouring out of who we are. We are puzzlers who love solving problems and find great satisfaction in designing, building, and implementing great architectural and engineering solutions for our clients. Our expectations are high, and we have fun achieving them.
 <br>
