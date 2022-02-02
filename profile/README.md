@@ -2,7 +2,7 @@
 <img align="right" width="25%" src="https://intellitect.com/wp-content/uploads/2020/04/IntelliTect_WhiteBlue-Box.svg">
 </a>
 
-# Hi There <img alt="Hi there👋" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/gifs/wave.gif" width="30px">
+# Hi There 👋
 <a href="https://intellitect.com">
 <img alt="IntellitectBackgroundGraphic" src="https://raw.githubusercontent.com/IntelliTect/.github/main/profile/images/IntellitectBackgroundGraphic.png">
 </a>
