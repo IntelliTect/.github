@@ -5,15 +5,18 @@ title: ''
 labels: bug
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug (actual behavior) is and the expected behavior..
+**Describe the bug:**
 
-**Add Details**
-Add steps to reproduce the behavior and any relevant screenshots:
+A clear and concise description of what the bug (actual behavior) is.
+
+**Add Details:**
+
+Add steps to reproduce the behavior and any relevant screenshots
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected Behavior**
+**Expected Behavior:**
+
 A clear and concise description of what you expected to happen.
