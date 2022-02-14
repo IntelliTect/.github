@@ -27,7 +27,7 @@ We love 💗 to contribute to open source projects while maintaining 🧹 some o
 ## 🤝 Making a Difference
 We are passionate about giving back to our community and helping elimate injustice worldwide with our [philanthropic efforts](https://intellitect.com/about/philanthropy/).
 
-Intellitect donate a significant portion of our profits to those in need through philanthropic endeavors both locally and worldwide.
+Intellitect donates a significant portion of our profits to those in need through philanthropic endeavors both locally and worldwide.
 Many of those stories can be viewed here: [Philanthropy Stories](https://intellitect.com/about/philanthropy/stories/).
 
 ## 👓 Appendix
