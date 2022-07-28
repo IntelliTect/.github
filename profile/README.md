@@ -25,7 +25,7 @@ We love 💗 to contribute to open source projects while maintaining 🧹 some o
 - [PSToolbox](https://github.com/IntelliTect/PSToolbox) - PowerShell scripts and modules hosted at [PowerShell Gallery](https://www.powershellgallery.com/packages?q=Intellitect)
 
 ## 🤝 Making a Difference
-We are passionate about giving back to our community and helping elimate injustice worldwide with our [philanthropic efforts](https://intellitect.com/about/philanthropy/).
+We are passionate about giving back to our community and helping eliminate injustice worldwide with our [philanthropic efforts](https://intellitect.com/about/philanthropy/).
 
 Intellitect donates a significant portion of our profits to those in need through philanthropic endeavors both locally and worldwide.
 Many of those stories can be viewed here: [Philanthropy Stories](https://intellitect.com/about/philanthropy/stories/).
