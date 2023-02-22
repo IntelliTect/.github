@@ -21,6 +21,7 @@ Our Mission: To Be Phenomenal People Achieving Excellence Through Innovative Sol
 We love 💗 to contribute to open source projects while maintaining 🧹 some of our own:
 
 - [Coalesce](https://github.com/IntelliTect/Coalesce) - Helping you quickly build amazing sites
+- [Multitool](https://github.com/IntelliTect/Multitool) - Library of useful additions to your C# application
 - [TestTools](https://github.com/IntelliTect/TestTools) - A collection of tools for aiding in test automation
 - [PSToolbox](https://github.com/IntelliTect/PSToolbox) - PowerShell scripts and modules hosted at [PowerShell Gallery](https://www.powershellgallery.com/packages?q=Intellitect)
 
